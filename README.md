@@ -10,7 +10,7 @@ website that connect all users with the client seamlessly. It gives the best use
 ## Demo
 
 Click the link --> https://foodie-7qlj.onrender.com
-Wait 2 minutes to load the web application.
+ (Just wait 2 minutes to load the web application.)
 
 
 ## Authors
